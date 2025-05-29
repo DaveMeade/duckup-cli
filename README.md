@@ -2,6 +2,11 @@
 
 `duckup-cli` is a command-line interface (CLI) tool for updating DuckDNS records easily. This tool allows you to manage your DuckDNS domains directly from the terminal.
 
+## Available CLI Commands
+
+- **`duckup`**: Update your DuckDNS records.
+- **`duckup-init`**: Set your DuckDNS token and domain values interactively.
+
 ## Installation
 
 To install the `duckup-cli`, clone the repository and navigate into the project directory:
