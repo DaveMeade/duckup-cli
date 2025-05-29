@@ -1,0 +1,12 @@
+{
+  "name": "duckup-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "duckup": "./src/duckup.js",
+    "duckup-init": "./src/duckup-init.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
