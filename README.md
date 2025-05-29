@@ -7,7 +7,7 @@
 To install the `duckup-cli`, clone the repository and navigate into the project directory:
 
 ```bash
-git clone <repository-url-tbd>
+git clone https://github.com/DaveMeade/duckup-cli
 cd duckup-cli
 ```
 
